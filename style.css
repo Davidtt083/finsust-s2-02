@@ -70,7 +70,7 @@ a {
   background-size: 102% 106%;
   background-repeat: no-repeat;
   max-width: 100%;
-  background-image: url("S5-Gg-14.png");
+  background-image: url("bg-index-02.png");
 }
 
 .gris {
@@ -128,7 +128,7 @@ a {
 
 .contep {
   position: absolute;
-  margin-top: 189px;
+  margin-top: 155px;
   width: 96%;
   height: 80px;
   margin-left: 4%;
@@ -138,9 +138,9 @@ a {
 .princ {
   color: rgba(0, 0, 0, 0);
   border-radius: 10px;
-  width: 70px;
-  height: 70px;
-  margin: 5px;
+  width: 100px;
+  height: 100px;
+  margin: 22px;
   border: solid #fff 3px;
   border-radius: 50%;
   cursor: pointer;
@@ -166,8 +166,8 @@ a {
 
 .btn1 {
   background-color: #0f102b;
-  line-height: 3.5;
-  font-size: 19px;
+  line-height: 5.5;
+  font-size: 17px;
   color: #ffffff;
 }
 
@@ -199,8 +199,7 @@ a {
 .princ:hover {
   background-color: rgba(0, 170, 191, 0.7);
   border: solid #d18a29 4px;
-  width: 75px;
-  height: 75px;
+  line-height: 3.5;
 }
 
 .nombre {
@@ -589,10 +588,10 @@ a {
 
 .texto1 {
   position: absolute;
-  margin-top: -238px;
+  margin-top: -205px;
   margin-left: 60px;
   width: 90%;
-  height: 45%;
+  height: 32%;
   background-color: rgba(255, 255, 255, 0.2);
   color: #ffffff;
   border-radius: 20px;
@@ -672,19 +671,19 @@ li {
 }
 
 .parr2 {
-  margin-top: 22px;
+  margin-top: 9px;
 }
 
 .parr3 {
-  margin-top: 0px;
+  margin-top: 9px;
 }
 
 .parr4 {
-  margin-top: 33px;
+  margin-top: 18px;
 }
 
 .parr5 {
-  margin-top: 36px;
+  margin-top: 18px;
 }
 
 .parr6 {
