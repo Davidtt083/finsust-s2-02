@@ -709,3 +709,14 @@ li {
 .parr11 {
   margin-top: 23px;
 }
+
+.conteimatex{
+  display: flex;
+}
+
+.imagder{
+  margin-top: -44px;
+  width: 338px;
+  height: 135px;
+  margin-left: 16px;
+}
