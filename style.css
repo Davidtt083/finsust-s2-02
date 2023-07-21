@@ -710,13 +710,21 @@ li {
   margin-top: 23px;
 }
 
-.conteimatex{
+.conteimatex {
   display: flex;
 }
 
-.imagder{
+.imagder {
   margin-top: -44px;
   width: 338px;
   height: 135px;
   margin-left: 16px;
+}
+
+.logo-egade {
+  position: absolute;
+  width: 224px;
+  height: auto;
+  margin-top: 19px;
+  margin-left: 630px;
 }
